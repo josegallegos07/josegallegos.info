@@ -1,0 +1,28 @@
+
+<div class="text-center" id="profile">
+  <img class="center-block img-responsive img-circle" height="240" width="240" src="/assets/img/joga.jpg"></img>
+  <div id="about">
+    <ul class="list-unstyled">
+      {% for desc in site.data.profile.about %}
+      <li>
+         {% if desc.icon %}
+          <i class="fa fa-{{ desc.icon }} text-center"></i>
+          &nbsp;
+         {% endif %}
+        {{ desc.val }} 
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div id="social-media">
+    <ul class="list-inline">
+    {% for profile in site.data.profile.social_media %}
+    <li>
+      <a href="{{ profile.url }}" target="_blank" title="{{ profile.desc }}">
+        <div id="{{ profile.profile }}" class="text-center soc soc-{{ profile.profile }} fa fa-{{ profile.profile }}"></div>
+      </a>
+    </li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>

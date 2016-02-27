@@ -1,0 +1,40 @@
+{
+  "about" : [
+    {
+      "desc" : "name",
+      "val" : "<h3>Jose Gallegos</h3>"
+    },
+    {
+      "icon" : "map-marker",
+      "desc" : "location",
+      "val" : "San Francisco, CA"
+    },
+    {
+      "icon" : "code",
+      "desc" : "work",
+      "val" : "Software developer @ <a href='https://www.brainhq.com' target='_blank'>Posit Science</a>"
+    },
+    {
+      "icon" : "envelope",
+      "desc" : "contact",
+      "val" : "<a href='mailto:josegallegos07@gmail.com'>josegallegos07@gmail.com</a>"
+    }
+  ],
+  "social_media": [
+    {
+      "profile": "github",
+      "desc": "Github",
+      "url": "https://github.com/josegallegos07"
+    },
+    {
+      "profile": "linkedin",
+      "desc": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joseluisgallegos"
+    },
+    {
+      "profile" : "lastfm",
+      "desc" : "last.fm",
+      "url" : "http://www.last.fm/user/josegallegos07"
+    }
+  ]
+}
