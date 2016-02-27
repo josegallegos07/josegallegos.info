@@ -1,0 +1,4 @@
+exclude: ["Rakefile.rb", "README.md", "Gemfile", "Gemfile.lock", "start.sh"]
+
+gems:
+  - jekyll-sitemap
