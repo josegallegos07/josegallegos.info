@@ -2,6 +2,77 @@
 /** body **/
 
 body {
+  background-color : #1e1e22;
+  color: #FFFFFF;
   font-weight: 100;
   font-family: 'Roboto', sans-serif;
+}
+
+::selection {
+  background: #0084b8; /* Safari */
+}
+
+::-moz-selection {
+  background: #0084b8; /* Firefox */
+}
+
+p, li {
+  font-size: 1.4em;
+}
+
+/** headers **/
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 100;
+  color: #838588;
+}
+
+h3 {
+  font-size: 2.0em;
+  margin: 0px;
+}
+
+/** links **/
+
+a:link,
+a:visited,
+a:active {
+  color: #0084b8;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #838588;
+}
+
+
+/** social media icons **/
+
+.soc {
+  font-size: 22px !important;
+  color: #FFFFFF !important;
+  border-radius: 6px;
+  width: 38px;
+  height: 38px;
+  padding-top: 0.35em;
+}
+
+.soc:hover {
+  background-color: #44546A;
+}
+
+.soc-dribbble {
+  background-color: #ea4c89;
+}
+
+.soc-github {
+  background-color: #333333;
+}
+
+.soc-linkedin {
+  background-color: #0084b8;
+}
+
+.soc-lastfm {
+  background-color: #d51007;
 }
