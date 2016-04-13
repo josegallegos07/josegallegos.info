@@ -23,16 +23,19 @@
   "social_media": [
     {
       "profile": "github",
+      "icon" : "github",
       "desc": "Github",
       "url": "https://github.com/josegallegos07"
     },
     {
       "profile": "linkedin",
+      "icon" : "linkedin",
       "desc": "LinkedIn",
       "url": "https://www.linkedin.com/in/joseluisgallegos"
     },
     {
       "profile" : "lastfm",
+      "icon" : "lastfm",
       "desc" : "last.fm",
       "url" : "http://www.last.fm/user/josegallegos07"
     }

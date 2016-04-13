@@ -21,7 +21,7 @@
     {% for profile in site.data.profile.social_media %}
     <li>
       <a href="{{ profile.url }}" target="_blank" title="{{ profile.desc }}">
-        <div id="{{ profile.profile }}" class="text-center soc soc-{{ profile.profile }} fa fa-{{ profile.profile }}"></div>
+        <div id="{{ profile.profile }}" class="text-center soc soc-{{ profile.profile }} fa fa-{{ profile.icon }}"></div>
       </a>
     </li>
     {% endfor %}
