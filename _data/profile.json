@@ -38,12 +38,6 @@
       "icon" : "lastfm",
       "desc" : "last.fm",
       "url" : "http://www.last.fm/user/josegallegos07"
-    },
-    {
-      "profile" : "youtube",
-      "icon" : "youtube",
-      "desc" : "YouTube",
-      "url" : "https://www.youtube.com/user/JoseGallegos07"
     }
   ]
 }
