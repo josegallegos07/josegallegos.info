@@ -38,6 +38,12 @@
       "icon" : "lastfm",
       "desc" : "last.fm",
       "url" : "http://www.last.fm/user/josegallegos07"
+    },
+    {
+      "profile" : "kickstarter",
+      "icon" : "kickstarter",
+      "desc" : "Kickstarter",
+      "url" : "https://www.kickstarter.com/profile/josegallegos07"
     }
   ]
 }
