@@ -49,12 +49,10 @@ a:hover {
 /** social media icons **/
 
 .soc {
-  font-size: 22px !important;
-  color: #FFFFFF !important;
-  border-radius: 6px;
   width: 38px;
   height: 38px;
-  padding-top: 0.35em;
+  padding: 6px;
+  border-radius: 6px;
 }
 
 .soc:hover {
