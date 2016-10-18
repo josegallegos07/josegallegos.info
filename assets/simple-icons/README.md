@@ -1,1 +1,1 @@
-https://github.com/thesabbir/simple-line-icons
+https://github.com/danleech/simple-icons
