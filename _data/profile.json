@@ -34,6 +34,12 @@
       "url": "https://www.linkedin.com/in/joseluisgallegos"
     },
     {
+      "profile": "angellist",
+      "icon" : "angellist",
+      "desc": "AngelList",
+      "url": "https://angel.co/jose-gallegos-1?public_profile=1"
+    },
+    {
       "profile" : "lastfm",
       "icon" : "lastfm",
       "desc" : "last.fm",
