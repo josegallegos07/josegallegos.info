@@ -7,6 +7,10 @@
     "desc": "location",
     "val": "San Francisco, CA"
   }, {
+    "icon": "code",
+    "desc": "work",
+    "val": "Software Engineer @ <a href='https://www.peoplegrove.com' target='_blank'>PeopleGrove</a>"
+  }, {
     "icon": "envelope",
     "desc": "contact",
     "val": "<a href='mailto:josegallegos07@gmail.com'>josegallegos07@gmail.com</a>"
@@ -25,11 +29,6 @@
     "icon": "linkedin",
     "desc": "LinkedIn",
     "url": "https://www.linkedin.com/in/joseluisgallegos"
-  }, {
-    "profile": "angellist",
-    "icon": "angellist",
-    "desc": "AngelList",
-    "url": "https://angel.co/jose-gallegos-1?public_profile=1"
   }, {
     "profile": "lastfm",
     "icon": "lastfm",
