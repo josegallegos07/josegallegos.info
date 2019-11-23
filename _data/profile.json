@@ -14,11 +14,7 @@
     "icon": "envelope",
     "desc": "contact",
     "val": "<a href='mailto:josegallegos07@gmail.com'>josegallegos07@gmail.com</a>"
-  }, {
-    "icon": "file-pdf-o",
-    "desc": "resume",
-    "val": "<a href='assets/raw/gallegos2018.pdf'>Resume</a>"
-  }],
+  },],
   "social_media": [{
     "profile": "github",
     "icon": "github",
