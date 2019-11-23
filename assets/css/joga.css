@@ -2,8 +2,8 @@
 /** body **/
 
 body {
-  background-color : #1e1e22;
-  color: #FFFFFF;
+  background-color : #13181d;
+  color: #fefefd;
   font-weight: 100;
   font-family: 'Roboto', sans-serif;
 }
@@ -42,7 +42,7 @@ a:active {
 
 a:hover {
   text-decoration: none;
-  color: #838588;
+  color: white;
 }
 
 
