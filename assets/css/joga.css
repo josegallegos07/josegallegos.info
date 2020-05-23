@@ -45,6 +45,13 @@ a:hover {
   color: white;
 }
 
+/** profile **/
+
+.prof-prev-work {
+  font-size: 1.2em;
+  color: #a5a7a9;
+}
+
 
 /** social media icons **/
 

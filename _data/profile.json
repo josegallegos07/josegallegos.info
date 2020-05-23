@@ -11,10 +11,13 @@
     "desc": "work",
     "val": "Software Engineer @ <a href='https://woebot.io' target='_blank'>Woebot Labs</a>"
   }, {
+    "desc": "prev-work",
+    "val": "Previously @ <a href='https://www.brainhq.com' target='_blank'>Posit Science</a> & <a href='https://www.peoplegrove.com' target='_blank'>PeopleGrove</a>"
+  }, {
     "icon": "envelope",
     "desc": "contact",
     "val": "<a href='mailto:josegallegos07+hello@gmail.com'>josegallegos07@gmail.com</a>"
-  },],
+  }],
   "social_media": [{
     "profile": "github",
     "icon": "github",

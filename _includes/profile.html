@@ -4,13 +4,13 @@
   <br>
   <div id="about">
     <ul class="list-unstyled">
-      {% for desc in site.data.profile.about %}
-      <li>
-         {% if desc.icon %}
-          <i class="fa fa-{{ desc.icon }} text-center"></i>
+      {% for item in site.data.profile.about %}
+      <li class="prof-{{ item.desc }}">
+         {% if item.icon %}
+          <i class="fa fa-{{ item.icon }} text-center"></i>
           &nbsp;
          {% endif %}
-        {{ desc.val }} 
+        {{ item.val }}
       </li>
       {% endfor %}
     </ul>
@@ -18,10 +18,10 @@
   <br>
   <div id="social-media">
     <ul class="list-inline">
-    {% for profile in site.data.profile.social_media %}
+    {% for item in site.data.profile.social_media %}
     <li>
-      <a href="{{ profile.url }}" target="_blank" title="{{ profile.desc }}">
-          <img class="soc soc-{{ profile.icon }}" src="assets/simple-icons/{{ profile.icon }}.svg"></img>
+      <a href="{{ item.url }}" target="_blank" title="{{ item.desc }}">
+          <img class="soc soc-{{ item.icon }}" src="assets/simple-icons/{{ item.icon }}.svg"></img>
       </a>
     </li>
     {% endfor %}
